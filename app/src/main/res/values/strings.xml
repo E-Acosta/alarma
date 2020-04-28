@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Alarma</string>
+
+    <!-- Main Activity/Fragment -->
+    <string name="empty_view_text">No tienes alarmas programadas</string>
+
+    <!-- Edit Alarm Activity/Fragment -->
+    <string name="time">Time</string>
+    <string name="label">Label</string>
+    <string name="days">Days</string>
+    <string name="edit_alarm">Edit Alarm</string>
+    <string name="add_alarm">Agregar Alarma</string>
+    <string name="add_label_hint">Agregar etiqueta!</string>
+    <string name="update_complete">Cambios guardados</string>
+    <string name="update_failed">Actualizacion fallida</string>
+    <string name="delete_complete">Alarma Eliminada</string>
+    <string name="delete_failed">Eliminacion fallida</string>
+    <string name="delete_dialog_title">Confirm Delete Alarm</string>
+    <string name="delete_dialog_content">Estas seguro que deseas eliminar esta alarma?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+
+    <!-- Edit Alarm Menu -->
+    <string name="action_save">Guardar</string>
+    <string name="action_delete">Eliminar</string>
+
+    <!-- Alarm Landing Page Activity/Fragment -->
+    <string name="launch_main_activity">Menu Principal</string>
+    <string name="dismiss">Ocultar</string>
+
+    <!-- Days -->
+    <string name="monday">Lunes</string>
+    <string name="tuesday">Martes</string>
+    <string name="wednesday">Miercoles</string>
+    <string name="thursday">Jueves</string>
+    <string name="friday">Viernes</string>
+    <string name="saturday">Sabado</string>
+    <string name="sunday">Domingo</string>
+
+    <!-- Notification -->
+    <string name="channel_name">Alarmas</string>
+
+</resources>
